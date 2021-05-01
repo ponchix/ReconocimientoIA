@@ -1,7 +1,9 @@
 body{
-    background-image: url(./assets/IA.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/testresvista-66c5f.appspot.com/o/assets%2Ffondo%20tese.png?alt=media&token=33d18460-c25f-44f5-8fb5-ae87936877b2);
    background-size: cover;
    background-color: transparent;
+   background-attachment: fixed;
+
 }
 
 .container{
